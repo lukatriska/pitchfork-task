@@ -1,0 +1,14 @@
+body {
+  background-color: #F3F7F7;
+  font-family: "Ubuntu Mono", serif;
+}
+
+.bar {
+  fill: steelblue;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+
+}
